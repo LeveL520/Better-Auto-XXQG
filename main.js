@@ -1,6 +1,6 @@
 console.clear();
 
-http.__okhttp__.setTimeout(10000);
+http.__okhttp__.setTimeout(1000);
 
 let url = [
     'https://gh-proxy.com/https://raw.githubusercontent.com/sec-an/Better-Auto-XXQG/main/UI.js',
